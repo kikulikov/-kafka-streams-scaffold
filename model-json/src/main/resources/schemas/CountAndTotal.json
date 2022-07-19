@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "count": {
+      "type": "integer"
+    },
+    "total": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "count",
+    "total"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "customerId": {
+      "type": "integer"
+    },
+    "productId": {
+      "type": "integer"
+    },
+    "quantity": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "customerId",
+    "productId",
+    "quantity"
+  ]
+}
